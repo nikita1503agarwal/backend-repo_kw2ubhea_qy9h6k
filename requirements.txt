@@ -5,3 +5,7 @@ pydantic>=2.9.0
 pymongo==4.6.0
 requests==2.31.0
 email-validator==2.1.0
+python-multipart==0.0.6
+langid==1.1.6
+indic-transliteration==2.3.67
+PyJWT==2.8.0
